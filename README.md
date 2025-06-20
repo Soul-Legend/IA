@@ -11,7 +11,7 @@ da **UFSC**, utilizando dados disponibilizados no curso de Deep Learning de Andr
 - `dados/`: Diretório contendo os arquivos `.h5` necessários:
 - `train_catvnoncat.h5`
 - `test_catvnoncat.h5`
-- `GatoNaoGatoPedro&Matheus-2.pdf`: Relatório detalhado do experimento.
+- `GatoNaoGato.pdf`: Relatório detalhado do experimento.
 ## Modelos Implementados
 1. **Regressão Logística (Perceptron Simples)**
 2. **Rede Neural Rasa** (1 camada oculta)
