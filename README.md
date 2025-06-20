@@ -48,7 +48,7 @@ O script irá:
 ![image](https://github.com/user-attachments/assets/764989df-8024-46e4-a066-ac65752a1063)
 
 Para uma análise completa, consulte o relatório em PDF incluído no repositório.
-## Observaes Técnicas
+## Observações Técnicas
 - **Entrada das imagens**: 64x64 pixels com 3 canais RGB
 - **Saída da rede**: Classificação binária (0 = No Gato, 1 = Gato)
 - **Função de perda**: `binary_crossentropy`
