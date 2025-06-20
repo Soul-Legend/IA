@@ -45,18 +45,7 @@ O script ir:
 - Exibir as matrizes de confuso
 - Imprimir relatrios de classificao detalhados
 ## Resultados
-| Modelo | Acurcia no Teste | Observaes principais
-|
-|----------------------|-------------------|--------------------------------------------
-------|
-| Regresso Logstica | 66.00% | Forte overfitting, dificuldades com a classe
-"Gato" |
-| Rede Neural Rasa | 72.00% | Leve melhora, ainda com overfitting
-|
-| CNN Bsica | 76.00% | Aprende melhor as features, mas apresenta
-overfitting |
-| CNN Otimizada | 90.00% | Excelente generalizao com tcnicas de
-regularizao |
+![image](https://github.com/user-attachments/assets/764989df-8024-46e4-a066-ac65752a1063)
 Para uma anlise completa, consulte o relatrio em PDF includo no repositrio.
 ## Observaes Tcnicas
 - **Entrada das imagens**: 64x64 pixels com 3 canais RGB
