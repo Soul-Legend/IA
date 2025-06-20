@@ -46,7 +46,8 @@ O script ir:
 - Imprimir relatrios de classificao detalhados
 ## Resultados
 ![image](https://github.com/user-attachments/assets/764989df-8024-46e4-a066-ac65752a1063)
-Para uma anlise completa, consulte o relatrio em PDF includo no repositrio.
+
+Para uma analise completa, consulte o relatrio em PDF includo no repositrio.
 ## Observaes Tcnicas
 - **Entrada das imagens**: 64x64 pixels com 3 canais RGB
 - **Sada da rede**: Classificao binria (0 = No Gato, 1 = Gato)
